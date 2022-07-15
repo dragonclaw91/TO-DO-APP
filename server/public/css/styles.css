@@ -1,0 +1,35 @@
+body{
+    background-color: dodgerblue;
+    text-align: center;
+    color:yellow;
+    font-family: cursive;
+}
+
+
+table{
+    margin: auto;
+    font-family: fantasy;
+    color: white;
+    border-spacing: 15px;
+  border-collapse: collapse;
+}
+
+
+.nuke{
+    border-radius: 5px;
+    background-color: red;
+}
+
+
+td.completed{
+    text-decoration: line-through;
+    opacity: 50%;
+}
+
+
+
+
+.complete{
+    border-radius: 5px;
+    background-color: green;
+}
